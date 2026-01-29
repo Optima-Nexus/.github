@@ -42,9 +42,9 @@ Nuestra arquitectura está optimizada para el máximo rendimiento con el mínimo
 ## 🤝 Contacto & Consultoría
 ¿Listo para recuperar 10 horas de tu semana? Optimizamos tu flujo de trabajo con precisión quirúrgica.
 
-* **Fundador:** [Tu Nombre/Alias]
-* **Web:** [Enlace a tu GitHub Pages]
-* **LinkedIn:** [Tu Perfil de LinkedIn]
+* **Fundador:** optimanexus.pe@gmail.com
+* **Web:** [En Construcciòn]
+* **LinkedIn:** [En Construcciòn]
 
 ---
 *© 2026 Optima Nexus - Efficiency through Connection.*
